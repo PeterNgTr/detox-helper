@@ -1,4 +1,3 @@
-const Helper = require('codeceptjs').helper;
 const recorder = require('codeceptjs').recorder;
 const path = require('path');
 
